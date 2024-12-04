@@ -1,0 +1,25 @@
+:host {
+    display: block;
+    font-family: sans-serif;
+    text-align: center;
+}
+button {
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px; 
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+  
+.suma-message {
+    color: white;
+  }
+  
+  .suma-number {
+    color: red;
+  }
+  
